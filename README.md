@@ -13,7 +13,7 @@ I adapt quickly to new technologies.
 - **Backend:** Spring Boot, Django, REST APIs  
 - **Frontend:** HTML, CSS 
 - **Databases:** MySQL, PostgreSQL  
-- **Tools & Platforms:** Git, GitHub, Docker, Postman, Swagger, Linux
+- **Tools & Platforms:** Git, GitHub, Docker, Postman, Swagger, Render, Linux
 
 ## Notable Projects
 
