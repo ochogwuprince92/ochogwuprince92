@@ -21,25 +21,25 @@ I adapt quickly to new technologies.
 [**Repository:**](https://github.com/ochogwuprince92/jobboard)  
 A job board platform built with Python and typescript, designed to manage job postings/applications and web scraping with clean backend logic and structured data handling.
 
-**Tech focus:** Python, Django, ypescript, celery, Ai integration, PostgreSQL
+**Tech focus:** Python, Django, TypeScript, Celery, Ai integration, PostgreSQL
+
+### 🔹 Farmatta API
+[**Repository:**](https://github.com/ochogwuprince92/farmatta-api)
+A backend platform connecting farmers, buyers, and suppliers with crop, land, transaction, and Stripe payment management.
+
+**Tech focus:** Java, Spring Boot, REST APIs, PostgreSQL, Stripe, JWT Authentication, Backend Architecture
 
 ### 🔹 Market Application  
 [**Repository:**](https://github.com/ochogwuprince92/market)  
 A market-oriented application demonstrating product handling, business logic, and extensible system architecture.
 
-**Tech focus:** Java, Spring Boot, RestAPIs, backend architecture, scalable design, MySQL 
+**Tech focus:** Java, Spring Boot, RestAPIs, Backend Architecture, Scalable Design, MySQL 
 
 ### 🔹 Developer Portfolio  
 [**Repository:**](https://github.com/ochogwuprince92/Portfolio)  
 A personal portfolio website showcasing projects, skills, and professional background with a clean, responsive layout.
 
-**Tech focus:** Frontend development, UI structure, presentation
-
-### 🔹 E-Commerce Backend  
-[**Repository:**](https://github.com/ochogwuprince92/ecom-project)  
-An e-commerce backend project focused on real-world features such as product management, users, and modular backend design.
-
-**Tech focus:** Spring Boot, REST APIs, database modeling
+**Tech focus:** Frontend development, UI structure, Presentation
 
 ## What I Build
 
