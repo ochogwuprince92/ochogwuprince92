@@ -30,10 +30,10 @@ A backend platform connecting farmers, buyers, and suppliers with crop, land, tr
 **Tech focus:** Java, Spring Boot, REST APIs, PostgreSQL, Stripe, JWT Authentication, Backend Architecture
 
 ### 🔹 Market Application  
-[**Repository:**](https://github.com/ochogwuprince92/market)  
-A market-oriented application demonstrating product handling, business logic, and extensible system architecture.
+[**Repository:**](https://github.com/ochogwuprince92/market.git)  
+A market-oriented application demonstrating product handling, business logic, payment system and extensible system architecture.
 
-**Tech focus:** Java, Spring Boot, RestAPIs, Backend Architecture, Scalable Design, MySQL 
+**Tech focus:** Java, Spring Boot, Hibernate, messaging system, RestAPIs, Backend Architecture, Scalable Design, MySQL 
 
 ### 🔹 Developer Portfolio  
 [**Repository:**](https://github.com/ochogwuprince92/Portfolio)  
